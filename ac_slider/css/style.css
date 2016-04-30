@@ -1,0 +1,47 @@
+#wrap {
+    width:40%;
+    float:right;
+    margin-top:150px;
+    margin-right:50px;
+}
+.hndle span {
+     margin-left:182px;
+     margin-bottom:2px;
+}
+.save_btn {
+	color:white;
+	border:1px rebeccapurple;
+	background-color:rebeccapurple;
+	margin-left:180px;
+	width:100px;
+	height:30px;
+}
+.del_btn {
+	width:100px;
+	height:30px;
+    color: #555;
+    border-color: #ccc;
+    background: #f7f7f7;
+    box-shadow: 0 1px 0 #ccc;
+    vertical-align: top;
+}
+.ui-state-default{
+    cursor:move;
+}
+.ui-state-default {
+	clear: left;
+	float: left;
+}
+
+.image_wrapper{
+height:110px;
+overflow:hidden ! important;
+margin-bottom: 4px;
+
+}
+ul#sortable:after {
+    content: ' ';
+    visibility: hidden;
+    clear: both;
+    display: block;
+}
