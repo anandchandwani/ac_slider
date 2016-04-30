@@ -1,5 +1,5 @@
-# ResponsiveSlides.js v1.54
-### Simple & lightweight responsive slider plugin (in 1kb)
+# ac_slider.1.0
+### Simple & lightweight responsive WordPress slider plugin 
 
 
 
