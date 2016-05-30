@@ -1,4 +1,4 @@
-# Whiteboarding Checklist
+## Whiteboarding Checklist
 
 **Format of whiteboarding (in order)**
 
@@ -14,14 +14,14 @@
 
 
 
-# Whiteboarding Style
+## Whiteboarding Style
 
 - [ ]  Should maintain constant communication with interviewer - there should not be any awkward silences - should talk with 
    interviewer while writing pseudocode out 
 - [ ]  Starts on top left side of the board and moves to right - ensures that there is enough room to work with so that solutions 
    aren’t cramped 
 
-#Problems
+## Problems
 
 - [ ] First whiteboard problem: TBD
 - [ ] Second whiteboard problem: TBD	
