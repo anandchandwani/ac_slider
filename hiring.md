@@ -1,7 +1,5 @@
 ## Hiring Program:Resume Checklist
 
-### Hiring Program: Github Checklist
-
 #### Followers/stars		
 
 - [ ] Followed every one of your cohortmates	
