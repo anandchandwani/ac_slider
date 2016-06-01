@@ -1,4 +1,4 @@
-### Whiteboarding Checklist
+## Whiteboarding Checklist
 
 #### Format of whiteboarding (in order)
 
