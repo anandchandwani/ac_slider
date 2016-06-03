@@ -58,9 +58,3 @@
 
 ### Samples
 https://drive.google.com/folderview?id=0B0T2a9YBMlL9bENjMy1OY2JVSEU&usp=sharing
-<style type="text/css">
-span{
-
-	color:red;
-}	
-</style>
