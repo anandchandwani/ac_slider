@@ -53,8 +53,8 @@
 *-* &nbsp;&nbsp;Be conscious about the focus of your resume. If you list a lot of front-end skills and not that much back-related experience, &nbsp;&nbsp;&nbsp;&nbsp;people will think you like front-end development. If you are interested in full-stack development, show balance between both<br>
 *-* &nbsp;&nbsp;Avoid extreme words like: best, first, all<br>
 *-* &nbsp;&nbsp;Avoid pronouns : our, we, I, you<br>
-*-* &nbsp;&nbsp;When creating hyperlinks to your projects, email, LinkededIn, etc, please remove the underline and change the font color to &nbsp;&nbsp;&nbsp; black. The hyperlink will be preserved and the font will look cleaner<br>
-<span style="color:red"> -&nbsp;&nbsp;IMPORTANT - The primary source of your resume must be in google docs (not Microsoft Word or Pages as formatting is not &nbsp;&nbsp;&nbsp;&nbsp;consistent when imported into google docs)</span>
+*-* &nbsp;&nbsp;When creating hyperlinks to your projects, email, LinkededIn, etc, please remove the underline and change the font color  &nbsp;&nbsp;&nbsp;to black. The hyperlink will be preserved and the font will look cleaner<br>
+<span style="color:red"> -&nbsp;&nbsp;IMPORTANT - The primary source of your resume must be in google docs (not Microsoft Word or Pages as formatting is  &nbsp;&nbsp;&nbsp;&nbsp; not consistent when imported into google docs)</span>
 
 ### Samples
 https://drive.google.com/folderview?id=0B0T2a9YBMlL9bENjMy1OY2JVSEU&usp=sharing
