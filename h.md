@@ -11,7 +11,7 @@
 ### Technical Skills overview
 
 *-* &nbsp;&nbsp;Breakdown into one or two sections (experienced and strong). Fill one entire line each. Be concise. More does not mean &nbsp;&nbsp;&nbsp;&nbsp;better - do not list both Mongoose and MongoDB, the more general one - MongoDB in this case<br>
-*-* &nbsp; Be aware of the order at which the skills are the listed 	- if you list too many frontend heavy skills first, engineers / recruiters &nbsp;&nbsp;&nbsp; will assume that you are a front-end developer. Balance out your frontend / backend skills if you are interested in conveying &nbsp;&nbsp;&nbsp; that you are a full stack developer<br>
+*-* &nbsp; Be aware of the order at which the skills are the listed 	- if you list too many frontend heavy skills first, engineers / recruiters &nbsp;&nbsp;&nbsp; will assume that you are a front-end developer. Balance out your frontend / backend skills if you are interested in conveying &nbsp;&nbsp;&nbsp;&nbsp; that you are a full stack developer<br>
 *-* &nbsp; During the interview, you should be able to talk about each point for at least 2 minutes under the strong section <br>
 *-* &nbsp; These skills must be listed in the strong section : Javascript (it’s what you have been using these past 3+ months), Git (all  &nbsp;&nbsp;&nbsp;&nbsp;companies use version control), (one type of database). If you are uncomfortable putting these in your strong section, you &nbsp;&nbsp;&nbsp;&nbsp;must research these topics in detail until you are comfortable with it
 
