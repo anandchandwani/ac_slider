@@ -50,7 +50,7 @@
 
 
 #### General
-*-* &nbsp;&nbsp;Be conscious about the focus of your resume. If you list a lot of front-end skills and not that much back-related experience, &nbsp;&nbsp;&nbsp;&nbsp;people will think you like front-end development. If you are interested in full-stack development, show balance between  &nbsp;&nbsp; &nbsp;&nbsp;both<br>
+*-* &nbsp;&nbsp;Be conscious about the focus of your resume. If you list a lot of front-end skills and not that much back-related experience, &nbsp;&nbsp;&nbsp;&nbsp;people will think you like front-end development. If you are interested in full-stack development,show balance between both<br>
 *-* &nbsp;&nbsp;Avoid extreme words like: best, first, all<br>
 *-* &nbsp;&nbsp;Avoid pronouns : our, we, I, you<br>
 *-* &nbsp;&nbsp;When creating hyperlinks to your projects, email, LinkededIn, etc, please remove the underline and change the font color  &nbsp;&nbsp;&nbsp;to black. The hyperlink will be preserved and the font will look cleaner<br>
