@@ -54,7 +54,13 @@
 *-* &nbsp;&nbsp;Avoid extreme words like: best, first, all<br>
 *-* &nbsp;&nbsp;Avoid pronouns : our, we, I, you<br>
 *-* &nbsp;&nbsp;When creating hyperlinks to your projects, email, LinkededIn, etc, please remove the underline and change the font color  &nbsp;&nbsp;&nbsp;to black. The hyperlink will be preserved and the font will look cleaner<br>
-<span style="color:red; !important"> -&nbsp;&nbsp;IMPORTANT - The primary source of your resume must be in google docs (not Microsoft Word or Pages as formatting is &nbsp;&nbsp;&nbsp;&nbsp;not consistent when imported into google docs)</spant>
+<span"> -&nbsp;&nbsp;IMPORTANT - The primary source of your resume must be in google docs (not Microsoft Word or Pages as formatting is &nbsp;&nbsp;&nbsp;&nbsp;not consistent when imported into google docs)</spant>
 
 ### Samples
 https://drive.google.com/folderview?id=0B0T2a9YBMlL9bENjMy1OY2JVSEU&usp=sharing
+<style type="text/css">
+span{
+
+	color:red;
+}	
+</style>
