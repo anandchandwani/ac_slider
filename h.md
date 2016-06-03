@@ -1,7 +1,7 @@
 ## Hiring Program: Resume Checklist
 
 
-### Header
+#### Header
 
 *-* &nbsp;&nbsp;Name, email (click to link), city (be as general as possible when listing your City, ex. Los Angeles, you do not need to list  &nbsp;&nbsp;&nbsp;&nbsp;your exact address), cellphone	
 *-* &nbsp;&nbsp;Website with your own domain (Elective)	
